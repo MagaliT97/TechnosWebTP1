@@ -1,5 +1,7 @@
 # TechnosWebTP1
 
+Magali Treuvelot
+
 ## Instructions
 
 Créer un site CV **présentable** qui pourra être mis en ligne par vos soins
